@@ -92,7 +92,7 @@ Welcome to an e-commerce shopping app built using the MERN (MongoDB, Express, Re
 4.  Run the app:
 
     ```bash
-    cd backend &&
+    cd backend 
     npm start
     ```
 
